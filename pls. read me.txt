@@ -1,0 +1,17 @@
+pls. read me
+==================
+i am sharing the importent files of my project 
+project name:pwv
+
+file location and descriptions:
+student.blade.php>>>>>blade tamplate>>>>pwv/resources/views/student.blade.php
+dbcontroller.php>>>>>controller class>>>>pwv/app/http/controllers/dbcontroller.php
+.env>>>>>>>>>>env file>>>>>>>pwv/.env
+web.php>>>>>>routes file>>>pwv/routes/web.php
+
+
+databas e file :
+student.txt
+
+fun fact:
+works fine and  no problem in mozilla...honestly speaking never tried in edge

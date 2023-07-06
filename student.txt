@@ -1,0 +1,11 @@
+mysql
+=============
+user:root
+password:project
+=====================
+
+create database mydb;
+use mydb;
+create table student (sno int(4), sname nvarchar(15), marks int(3));
+insert into student values(101,'subhajit',099);
+select * from student;
